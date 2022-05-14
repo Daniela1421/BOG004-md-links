@@ -31,7 +31,7 @@ Para llevar a cabo el proyecto se hizo necesario realizar un diagrama de flujo. 
 ![image](https://user-images.githubusercontent.com/92064924/168403623-c7a70135-6e28-419e-93ab-5d1a5fca4d5e.png)
 ![image](https://user-images.githubusercontent.com/92064924/168403649-df5c9c2f-0543-46f4-8d43-e510d9e32f60.png)
 
-## 4. Instalación
+## 4. Instalación 🔧
 
 Para hacer uso de la librería ejecuta en la terminal el siguiente comando: 
 * npm install md-links-daniela1421
