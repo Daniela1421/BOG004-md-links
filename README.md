@@ -34,7 +34,7 @@ Para llevar a cabo el proyecto se hizo necesario realizar un diagrama de flujo. 
 ## 4. Instalación 🔧
 
 Para hacer uso de la librería ejecuta en la terminal el siguiente comando: 
-* npm install md-links-daniela1421
+* npm install mdlinks-daniela1421
 
 ## 5. Guía de uso 📝
 Para utilizar esta librería puedes ejecutar los siguientes comandos: 
